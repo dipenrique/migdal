@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/migdal/:/",
-    "/content/migdal/configuration:/.helix/config.json"
+    "/content/migdal1/:/",
+    "/content/migdal1/configuration:/.helix/config.json"
   ]
 }
