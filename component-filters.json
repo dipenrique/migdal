@@ -38,10 +38,9 @@
     ]
   },
   {
-    "id": "accordions",
+    "id": "accordion",
     "components": [
-      "card",
-      "accordionitem"
+      "accordion-item"
     ]
   }
 ]
