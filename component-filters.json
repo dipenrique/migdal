@@ -40,7 +40,8 @@
   {
     "id": "accordions",
     "components": [
-      "card"
+      "card",
+      "accordionitem"
     ]
   }
 ]
